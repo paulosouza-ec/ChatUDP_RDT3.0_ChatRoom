@@ -14,3 +14,7 @@ How to use:
 1. Clone this repository to your local machine.
 2. Run the chat server using the server.py file.
 3. Run the chat client using the client.py file and follow the instructions presented on the command line to connect to the room, send messages, etc.
+
+
+
+Developed by: Lucas Lins, Rafael Moura, Paulo Souza
